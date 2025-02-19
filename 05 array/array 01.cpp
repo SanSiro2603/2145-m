@@ -10,7 +10,7 @@ int main(){
     nilai [3] =  31;
     nilai [4] =57;
     
-    cout << "nilai ke-1: " << nilai [0] <<endl; 
+    // cout << "nilai ke-1: " << nilai [0] <<endl; 
     
     cout << "nilai ke-2: " << nilai [1] <<endl; 
     
